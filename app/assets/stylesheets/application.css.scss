@@ -16,6 +16,8 @@
 
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 .home-callout, .navbar {
     background: #F7971E;  /* fallback for old browsers */
